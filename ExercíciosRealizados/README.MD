@@ -43,7 +43,7 @@ Questão | Enunciado
   
 Questão | Enunciado
 :---------: | :------:
-  16     | Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído. Para alterar o preço do produto deve preencher pelo menos um dos requisitos a seguir: 
+  16     | Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído. Para alterar o preço do produto deve preencher pelo menos um dos requisitos da tabela. Faça um programa que receba o preço atual e a venda mensal média do produto, calcule e mostre o novo preço. 
 
 Venda média mensal |   Preço atual          | % de aumento | % de diminuição
 :----------------: | :------------:         | :----------: | :------------:
